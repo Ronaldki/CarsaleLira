@@ -37,7 +37,7 @@
               
               <div class="item">
                 <div class="col-sm-6">
-                  <h1><span>Car</span>-Sellers</h1>
+                  <h1><span>Cars</span>-Sellers</h1>
                   <h2>Bamakanika car Dealers</h2>
                   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
                  
